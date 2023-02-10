@@ -1,0 +1,22 @@
+1- Guido van Rossum
+2- Python supports procedure,object oriented ,dynamically typed,high level programming.
+3- Yes,it is case sensitive
+4- Correct extension for python is :- .py
+5- Python programs are both compiled as well as interpreted.
+6- print(),functions,modules
+7- Single line comment:- #
+8- Find the version of python that we are currently working on :- sys.version
+9- lambda
+10- PIP stands for preferred installer program
+11- print(),type(),max(),sum()...
+12- Max length of python identifier:- 79 characters
+13- Benifits of python- 
+	-easy to use
+	-can use in data science...
+14- Memory managed in Python by Objects
+15- 1)Right-clicking This PC and going to Properties.
+      2)Clicking on the Advanced system settings in the menu on the left.
+      3)Clicking on the Environment Variables button o​n the bottom right.
+      4)In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the          directories that are currently a part of the PATH variable.
+      5)Clicking on New and entering Python’s install directory.
+16- Yes, Indentation required in python
